@@ -1,30 +1,30 @@
 # portfolio
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature 1
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour 
 
-Start time: _____
+Start time: 5:30pm
 
-Finish time: _____
+Finish time: 6:42pm
 
-Actual time needed to complete: _____
-
-**************************************************************************
-
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 1hr 12mins
 
 **************************************************************************
 
-Feature #1: Refactor the CSS
+Number and name of feature: 
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time:  
+
+Actual time needed to complete:
+
+**************************************************************************
+
+Feature #1: Refactor the CSS -
 Why are we implementing this feature?
 As a user, I want the portfolio to have a clean UI so that it is visually appealing.
 What are we going to implement?
@@ -35,7 +35,8 @@ Then the portfolio contents should be displayed
 How are we implementing it?
 Refactor the main.css file using SMACSS principles.
 You may decide how many files to include, but at the minimum should include base.css, layout.css, and modules.css. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a modules folder, if you feel that the code needs to be organized in that manner.
-Feature #2: Modify the contents
+
+Feature #2: Modify the contents -
 Why are we implementing this feature?
 As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
 What are we going to implement?
