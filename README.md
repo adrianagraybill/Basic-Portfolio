@@ -12,15 +12,15 @@ Actual time needed to complete: 1hr 12mins
 
 **************************************************************************
 
-Number and name of feature: 
+Number and name of feature: Feature 2
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1hr
 
-Start time: 
+Start time: 7pm
 
-Finish time:  
+Finish time:  9:30pm
 
-Actual time needed to complete:
+Actual time needed to complete: 1.5hrs
 
 **************************************************************************
 
