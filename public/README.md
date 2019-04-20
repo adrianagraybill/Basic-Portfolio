@@ -55,3 +55,7 @@ Add you own color scheme and Google fonts.
 Change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, Unsplash has a nice variety of free images.
 Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
+
+Used the sites below for inspiration and help:
+
+https://gist.github.com/ki11ua/24852452272065fb5a00bab9eda5af27 - help with carousel
